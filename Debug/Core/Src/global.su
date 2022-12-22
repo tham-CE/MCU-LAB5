@@ -1,0 +1,2 @@
+global.c:21:6:str_cpy	24	static
+global.c:29:9:compare	24	static
